@@ -20,4 +20,4 @@ rabbitmq:
 env: dev2
 girl:
   name: zhangxinxin
-  age: 25
+  age: 24
